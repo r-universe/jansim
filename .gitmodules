@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jansim/jansim.r-universe.dev
 	branch = HEAD
+[submodule "nicknames"]
+	path = nicknames
+	url = https://github.com/jansim/nicknames
+[submodule "nightingale"]
+	path = nightingale
+	url = https://github.com/jansim/nightingale
+[submodule "occupationMeasurement"]
+	path = occupationMeasurement
+	url = https://github.com/occupationMeasurement/occupationMeasurement
+[submodule "peRsian"]
+	path = peRsian
+	url = https://github.com/jan-yegi/peRsian
+[submodule "ridges"]
+	path = ridges
+	url = https://github.com/jansim/ridges
